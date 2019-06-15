@@ -1,0 +1,13 @@
+{
+  "name": "p5-lab",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "live-server demos"
+  },
+  "repository": "git@github.com:jarvisniu/p5-lab.git",
+  "author": "Jarvis Niu <jarvisniu@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
